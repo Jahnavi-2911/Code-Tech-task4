@@ -55,5 +55,5 @@ Change IMAP Server: Modify imap_server='imap.gmail.com' for different providers 
 Adjust Spam Threshold: Modify bool(prediction) to use a probability threshold (e.g., proba[1] > 0.9 for stricter filtering).
 
 Security Note
-🔒 Avoid entering passwords directly in scripts for production use.
-🔒 Use OAuth or app-specific passwords for better security.
+* Avoid entering passwords directly in scripts for production use.
+* Use OAuth or app-specific passwords for better security.
